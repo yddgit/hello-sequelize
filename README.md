@@ -1,0 +1,2 @@
+# hello-sequelize
+Hello Sequelize
